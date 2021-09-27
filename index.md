@@ -1,13 +1,13 @@
 # **Leland Bove's User Page**
 
-##Sections 
+## Sections 
 - [ ] [Programming Languages](#programming-languages-i-have-used)
 - [ ] [Programming Quote](#favorite-programming-quote)
 - [ ] [First Program](#first-program-i-wrote-hello-world)
 - [ ] [Favorite Sites to Learn How to Program](#favorite-places-to-learn-programming-outside-of-class)
 
 #### Programming Languages I Have Used
-- Java
+- **Java**
 - Python
 - C
 - C++
