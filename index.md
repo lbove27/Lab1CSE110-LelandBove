@@ -24,8 +24,7 @@ print("Hello, World!")
 #### Favorite Places to Learn Programming Outside of Class
 1. [YouTube](https://www.youtube.com)
    [YouTube Image](images/YouTube Logo.jpeg)
-2. [Stack Overflow](https://stackoverflow.com)
-   [Stack Overflow Image](images/Stack-Overflow-Logo.png) 
+2. [Stack Overflow](https://stackoverflow.com) [Stack Overflow Image](images/Stack-Overflow-Logo.png) 
   
 
 
