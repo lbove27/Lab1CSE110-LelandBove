@@ -1,6 +1,6 @@
 # **Leland Bove's User Page**
 
-##Sections 
+## Sections 
 - [ ] [Programming Languages](#programming-languages-i-have-used)
 - [ ] [Programming Quote](#favorite-programming-quote)
 - [ ] [First Program](#first-program-i-wrote-hello-world)
@@ -23,9 +23,9 @@ print("Hello, World!")
 
 #### Favorite Places to Learn Programming Outside of Class
 1. [YouTube](https://www.youtube.com)
-   [YouTube Image](lbove27/LabWeek1CSE110-LelandBove/YouTube Logo.jpeg)
+   [YouTube Image](images/YouTube Logo.jpeg)
 2. [Stack Overflow](https://stackoverflow.com)
-   [Stack Overflow Image](lbove27/LabWeek1CSE110-LelandBove/Stack-Overflow-Logo.png) 
+   [Stack Overflow Image](images/Stack-Overflow-Logo.png) 
   
 
 
