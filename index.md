@@ -13,6 +13,8 @@
 - C++
 - **Swift**
 
+*I've only worked with swift a little bit to make Iphone apps*
+
 #### Favorite Programming Quote
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
 
